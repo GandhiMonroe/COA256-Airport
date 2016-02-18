@@ -1,0 +1,12 @@
+EMA CDG BritishAirways 120 100
+CDG VIE AirFrance 120 100
+EMA VIE BritishAirways 150 300
+EMA CDG AirFrance 130 80
+CDG LHR Swissair 80 100
+LHR HND BritishAirways 200 500
+LAX MUC VirginAtlantic 180 400
+LAX MAN BritishAirways 170 380
+MAN DXB Emirates 160 310
+KUL HND JapanAirlines 90 110
+CDG EMA AirFrance 120 100
+VIE LHR Swissair 120 280
